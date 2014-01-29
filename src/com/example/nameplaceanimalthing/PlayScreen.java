@@ -13,6 +13,7 @@ public class PlayScreen extends Activity {
 	
 	    Intent intent = getIntent();
 	    setContentView(R.layout.play);
+	    
 	}
 
 }
